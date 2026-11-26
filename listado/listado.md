@@ -1,6 +1,10 @@
 Listado de Clase 1º DAW.
+
 Profesor: José Luis González Sánchez
-Moódulo: Entornos de Desarrollo
+
+Módulo: Entornos de Desarrollo
 
 Alumnado: 
-Ariel Enrique Herrera Sanchez
+- Ariel Enrique Herrera Sanchez
+- Miguel Ángel Fernández Valenzuela
+- Izan Nikolov Gajero
